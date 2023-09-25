@@ -1,0 +1,97 @@
+
+Total possible combinations for 1 partitions is: 1
+
+
+[1] is the 1 partition array with the minimum BIC value: 69.188762131894606
+
+--------------------------------------------------
+
+Total possible combinations for 2 partitions is: 12
+
+
+[1, 6] is the 2 partition array with the minimum BIC value: 66.708336056632759892
+
+--------------------------------------------------
+
+Total possible combinations for 3 partitions is: 66
+
+
+[1, 5, 6] is the 3 partition array with the minimum BIC value: 65.350872327578613863
+
+--------------------------------------------------
+
+Total possible combinations for 4 partitions is: 220
+
+
+[1, 5, 12, 13] is the 4 partition array with the minimum BIC value: 64.071353863455925648
+
+--------------------------------------------------
+
+Total possible combinations for 5 partitions is: 495
+
+
+[1, 4, 5, 6, 7] is the 5 partition array with the minimum BIC value: 62.292689665261470111
+
+--------------------------------------------------
+
+Total possible combinations for 6 partitions is: 792
+
+
+[1, 5, 6, 7, 8, 9] is the 6 partition array with the minimum BIC value: 62.4766898274291691
+
+--------------------------------------------------
+
+Total possible combinations for 7 partitions is: 924
+
+
+[1, 8, 9, 10, 11, 12, 13] is the 7 partition array with the minimum BIC value: 62.543499699755642496
+
+--------------------------------------------------
+
+Total possible combinations for 8 partitions is: 792
+
+
+[1, 7, 8, 9, 10, 11, 12, 13] is the 8 partition array with the minimum BIC value: 62.779503627460982784
+
+--------------------------------------------------
+
+Total possible combinations for 9 partitions is: 495
+
+
+[1, 6, 7, 8, 9, 10, 11, 12, 13] is the 9 partition array with the minimum BIC value: 63.397120067360013707
+
+--------------------------------------------------
+
+Total possible combinations for 10 partitions is: 220
+
+
+[1, 5, 6, 7, 8, 9, 10, 11, 12, 13] is the 10 partition array with the minimum BIC value: 64.394255190844475578
+
+--------------------------------------------------
+
+Total possible combinations for 11 partitions is: 66
+
+
+[1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] is the 11 partition array with the minimum BIC value: 65.766998518586021305
+
+--------------------------------------------------
+
+Total possible combinations for 12 partitions is: 12
+
+
+[1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] is the 12 partition array with the minimum BIC value: 67.506641986675049338
+
+--------------------------------------------------
+
+Total possible combinations for 13 partitions is: 1
+
+
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] is the 13 partition array with the minimum BIC value: 69.586083528354890859
+
+--------------------------------------------------
+
+Among all the possible combinations in total,
+[1, 4, 5, 6, 7] is the 5 partition array with the minimum BIC value: 62.292689665261470111
+
+Total time elapsed is: 0.061491
+
